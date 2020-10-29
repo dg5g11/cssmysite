@@ -129,6 +129,12 @@ hr {
   margin-right: 30px;
 }
 
+.skiing-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  }
+
 .circular {
   border-radius: 100%
 }
