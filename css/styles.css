@@ -45,7 +45,7 @@ hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
   width: 5%;
-  margin: 75px auto;
+  margin: 50px auto;
 }
 
 /* ---- CLASS SELECTORS ---- */
@@ -57,7 +57,7 @@ hr {
 }
 
 .middle-container {
-  margin: 100px 0;
+  margin: 50px 0;
 }
 
 .bottom-container {
@@ -76,17 +76,17 @@ hr {
 }
 
 .contact-me {
-  margin: 0 auto 40px auto;
+  margin: 0 auto 20px auto;
 }
 
 .contact-me-text {
   width: 50%;
-  margin: 40px auto 60px;
+  margin: 30px auto 40px;
 }
 
 .skill-row {
   width: 50%;
-  margin: 75px auto 75px auto;
+  margin: 75px auto 90px auto;
   /* The auto margins here are what are centering the text */
   text-align: left;
 }
@@ -105,7 +105,7 @@ hr {
 /* ---- Images ---- */
 .top-cloud-img {
   position: absolute;
-  left: 300px;
+  left: 200px;
   top: 50px;
 }
 
@@ -113,7 +113,7 @@ hr {
 
 .bottom-cloud-img {
   position: absolute;
-  right: 300px;
+  right: 200px;
   bottom: 300px;
 }
 
